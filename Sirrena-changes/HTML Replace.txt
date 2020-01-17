@@ -1,0 +1,27 @@
+<!-- replace the section i screenshotted with this -->
+
+<div class="detail">
+    <h3>
+      As a showcase piece in a prime tourist area, we designed a life-sized LEGO bus shelter. Every detail—from bench, to roof, to little birdy—was recreated in proportionally-sized LEGO bricks. The shelter embodied the idea of building the unbuildable and captured attention for blocks, pun intended.
+    </h3>
+  </div>
+<div class="grid-container">
+  
+  <div class="project-detail-info">
+    <h3>Our Role</h3>
+    <p>Web Design</p>
+    <p>Front-End / HTML & CSS</p>
+  </div>
+  
+  <div class="project-detail-info">
+    <h3>Client</h3>
+    <p>Banana Noolab</p>
+  </div>
+  
+  <div class="project-detail-info">
+    <h3>Website</h3>
+    <p>hello-noolab.co</p>
+   
+  </div>
+  
+</div>
